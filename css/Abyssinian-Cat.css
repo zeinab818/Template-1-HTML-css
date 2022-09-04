@@ -1,0 +1,19 @@
+.container1{
+    padding-left: 5%;
+    padding-top: 5%;
+    
+    
+    max-width: 1200px;
+    position: relative;
+    /* width: calc(100vw - 60px); */
+    margin: 0;
+    
+ 
+}
+.type{
+    display: flex;
+    
+}
+body{
+    background-color: rgb(229, 238, 246);
+}
